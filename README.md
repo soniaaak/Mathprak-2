@@ -296,17 +296,20 @@ cd ..
 
 <p align="center">
   <img src="images/result_internal_only.png" width="760"><br>
-  <em>Режим internal_only: температура определяется внутренним тепловыделением и перфузией, внешнего теплообмена нет.</em>
+  <em>Режим internal_only: температура определяется внутренним тепловыделением и перфузией, внешнего теплообмена нет.</em><br>
+  <a href="https://youtu.be/G4OKVlKmd3g">Видео: internal_only</a>
 </p>
 
 <p align="center">
   <img src="images/result_room_radiator.png" width="760"><br>
-  <em>Режим room_radiator: кот находится в комнате и нагревается от батареи через нижнюю контактную область.</em>
+  <em>Режим room_radiator: кот находится в комнате и нагревается от батареи через нижнюю контактную область.</em><br>
+  <a href="https://youtu.be/uCNKr5tZhRw">Видео: room_radiator</a>
 </p>
 
 <p align="center">
   <img src="images/result_cold_radiator.png" width="760"><br>
-  <em>Режим cold_radiator: холодная внешняя среда заметно охлаждает поверхность, лапы, уши и хвост.</em>
+  <em>Режим cold_radiator: холодная внешняя среда заметно охлаждает поверхность, лапы, уши и хвост.</em><br>
+  <a href="https://youtu.be/S5RSXxIdvVE">Видео: cold_radiator</a>
 </p>
 
 <p align="center">
