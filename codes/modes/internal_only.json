@@ -1,0 +1,24 @@
+{
+  "T_init": 38.5,
+  "T_blood": 38.75,
+  "T_battery": 41.0,
+  "T_env": 20.0,
+
+  "dt": 10.0,
+  "t_end": 7200.0,
+  "save_every": 12,
+
+  "h_fur": 0.0,
+  "h_extremity": 0.0,
+  "h_battery": 0.0,
+
+  "vessel_radius_frac": 0.045,
+
+  "beta_tissue": 260.0,
+  "beta_heart": 2600.0,
+  "beta_vessels": 3600.0,
+
+  "Q_tissue": 180.0,
+  "Q_heart": 5200.0,
+  "Q_vessels": 250.0
+}
